@@ -1,4 +1,3 @@
-
 public class Main {
     public static void main(String[] args) {
         int initialBalance = 100;
@@ -12,5 +11,5 @@ public class Main {
         int finalBalance = initialBalance + refill + bonus;
         System.out.println("Бонус: " + bonus);
         System.out.println("Итоговый баланс: " + finalBalance);
-        }
     }
+}
